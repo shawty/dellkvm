@@ -1,0 +1,359 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: 4EKI/MoDiGuJ8Q/EkpAVDYvRv54=
+Created-By: 1.6.0_18 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: z7zTEuK6mIOsIIIWYpKqXpJiAQ0=
+
+Name: com/ami/iusb/IUSBRedirSession$IsoImageFilter.class
+SHA1-Digest: NuFCMucf7nC+PkmjTctXHOuJArU=
+
+Name: com/ami/kvm/jviewer/video/FrameHdr.class
+SHA1-Digest: mEKrLvDmJfiUGvRfnXqFxd+2hx8=
+
+Name: com/ami/iusb/protocol/RedirHeader.class
+SHA1-Digest: 08IunXEglr+HSRsI+5nhlxTKKL4=
+
+Name: com/ami/kvm/jviewer/res/down.jpg
+SHA1-Digest: Gxyd1yklsm5gvpMAf4JU7Hyuun8=
+
+Name: com/ami/kvm/jviewer/hid/ASTCursorHdrReader.class
+SHA1-Digest: 6BDolBssMwolUu8+domIfRglDGU=
+
+Name: com/ami/kvm/jviewer/video/VideoEngineInfo.class
+SHA1-Digest: OhazK+sMM77tPOfk9M6nIbD/rqM=
+
+Name: com/ami/kvm/jviewer/video/VideoHdr.class
+SHA1-Digest: 0GuvX8JH1RPv4fK3eV4o9Isj8v0=
+
+Name: com/ami/kvm/jviewer/kvmpkts/PS2Message.class
+SHA1-Digest: zI5fmQnNEjzsbOvAiXkxWj9ck3E=
+
+Name: com/ami/kvm/jviewer/kvmpkts/AutoDetectBw.class
+SHA1-Digest: dIjOjKt2YOmv7cT4oCd5d92aMmg=
+
+Name: com/ami/kvm/jviewer/kvmpkts/USBKeyProcessor.class
+SHA1-Digest: 5R7cUqhZhafeuhBzbsvtoBKn+U4=
+
+Name: com/ami/kvm/jviewer/res/up.jpg
+SHA1-Digest: 6/SfoT17P6wNHag830+5+JZVXRM=
+
+Name: com/ami/kvm/jviewer/video/Compression.class
+SHA1-Digest: uF/v588Wix3Ictl7fEsBRg/cLxA=
+
+Name: com/ami/iusb/RedirectionException.class
+SHA1-Digest: YTr6qfWSoZ1efnFvPAqo7QpwGjo=
+
+Name: com/ami/kvm/jviewer/video/VideoEngineInfo$COMPRESS_DATA.class
+SHA1-Digest: qW1Nbi7639uYD96x/GRNz3pjsFY=
+
+Name: com/ami/kvm/jviewer/gui/WindowFrame.class
+SHA1-Digest: kEclPBpaWVRgwdESNazd4sRTg9k=
+
+Name: com/ami/kvm/jviewer/gui/WindowMenu.class
+SHA1-Digest: k4YAkEsOEFbWV/DKU003jSWQg5M=
+
+Name: com/ami/kvm/jviewer/video/VideoEngineInfo$FRAME_HEADER.class
+SHA1-Digest: u5yj/MthnGH1nJdXY+I64PPLHsc=
+
+Name: com/ami/kvm/jviewer/gui/JVMenu$JVMenuListener.class
+SHA1-Digest: bpDr0jxKyBsLceHVJFdqQFz6rTc=
+
+Name: com/ami/iusb/protocol/RedirProtocol.class
+SHA1-Digest: PpQN3xXNsVH/voKTy1addrM3q+I=
+
+Name: com/ami/kvm/jviewer/res/max.jpg
+SHA1-Digest: FEzsmX0/4rCKnatViyHIEUu5tew=
+
+Name: com/ami/kvm/jviewer/video/VideoEngineInfo$XMS_BUFFER.class
+SHA1-Digest: XBBX0tlQO+S2Us4UzqkIBKzxZos=
+
+Name: com/ami/kvm/jviewer/hid/KMCrypt.class
+SHA1-Digest: +p41GVxaIXRvQWeLn9A+cKjExbo=
+
+Name: com/ami/iusb/protocol/IUSBSCSI.class
+SHA1-Digest: 2BMWp3xw8lsdXute3AQgprGgEH4=
+
+Name: com/ami/kvm/jviewer/video/VideoEngineInfo$VIDEO_MODE_INFO.class
+SHA1-Digest: FzcoJauxWfN9i/v3JDN9oA3UPrE=
+
+Name: com/ami/kvm/jviewer/video/VideoEngineInfo$INF_DATA.class
+SHA1-Digest: TpazxerV7xU5V/0KEmRZSlUrTrM=
+
+Name: com/ami/iusb/RedirProtocolException.class
+SHA1-Digest: 9psHhp1po67NPixCO9wS8rrcCzE=
+
+Name: com/ami/kvm/jviewer/gui/JVToolbar.class
+SHA1-Digest: p6DQIVvAQ/IHS64F0ET50Rr2W3Y=
+
+Name: com/ami/kvm/jviewer/gui/JVMenu$JVMenuStatusListener.class
+SHA1-Digest: /Xh2gszlr47MbMoGY1b/EiYINsE=
+
+Name: com/ami/kvm/jviewer/gui/VideoSettings.class
+SHA1-Digest: H8nt3QsGjRVLZ/nWKMmnbMHC21s=
+
+Name: com/ami/kvm/jviewer/gui/FSMenuBar$PopupListener.class
+SHA1-Digest: PbZvEPHwVMBmG9VEJdjeV0ANcdo=
+
+Name: com/ami/kvm/jviewer/hid/NullReader.class
+SHA1-Digest: Nbs8D2oheKv6/C7QMSLaIzB6aM4=
+
+Name: com/ami/kvm/jviewer/gui/JViewerView$RCKeyListener.class
+SHA1-Digest: C1hOC9MheGk+w1d91ueGEs2iqhw=
+
+Name: com/ami/kvm/jviewer/video/Decoder$rc4_state.class
+SHA1-Digest: gLvnoWKLuhiR6GqKiW3N106CN88=
+
+Name: com/ami/kvm/jviewer/res/pin.jpg
+SHA1-Digest: OjZkhUKa/3ktb6WSY4Hmscn6CNo=
+
+Name: com/ami/kvm/jviewer/communication/Client.class
+SHA1-Digest: QY3xf11ecfzREda8U97aSEqVV2g=
+
+Name: com/ami/kvm/jviewer/video/JTables.class
+SHA1-Digest: eMOM/kSWey2tlaWsI6oMjA2cLEM=
+
+Name: com/ami/kvm/jviewer/res/right.jpg
+SHA1-Digest: 3pU7K8tNd7R9NiuhM9IcDBZAfSU=
+
+Name: com/ami/kvm/jviewer/video/Decoder$COMPRESSHEADER.class
+SHA1-Digest: HunD8py3X0wduOFbRUpdbwlPsFM=
+
+Name: com/ami/kvm/jviewer/kvmpkts/IVTPPktHdr.class
+SHA1-Digest: CaqQhWfZ6vp/PDilvWgwnmL4ILU=
+
+Name: com/ami/kvm/jviewer/MiscUtils.class
+SHA1-Digest: VhttiUzVjYB1k45Jdy2BHGGjLII=
+
+Name: com/ami/kvm/jviewer/kvmpkts/PS2MouseRep.class
+SHA1-Digest: v/oyOr1SNTAS007n73AeQgFHekA=
+
+Name: com/ami/kvm/jviewer/gui/JVStatusBar.class
+SHA1-Digest: AbZ7acmkrXvbZ8P6stLYx+sVGXg=
+
+Name: com/ami/kvm/jviewer/hid/USBEncode.class
+SHA1-Digest: eHRt/FSdLop66fH2ijpDoaNglV4=
+
+Name: com/ami/kvm/jviewer/video/Decoder$RGB1.class
+SHA1-Digest: jNCJgyStEOFB9wSjGiB/i/l/3G0=
+
+Name: com/ami/kvm/jviewer/gui/JViewerView$RCMouseListener.class
+SHA1-Digest: 4F/HrWJuv6h5LYMBbop3LnTUckY=
+
+Name: com/ami/kvm/jviewer/kvmpkts/CfgVideoCompression.class
+SHA1-Digest: san7dQyA/ZjlvQT7X5ikfxgXsmA=
+
+Name: com/ami/kvm/jviewer/hid/FragReader.class
+SHA1-Digest: ACEe315CqK8FBFgpMQ+N9CUBwlk=
+
+Name: com/ami/iusb/IUSBRedirSession.class
+SHA1-Digest: 3r6uN2rlTfr8nh8siby4wd2sjs4=
+
+Name: com/ami/kvm/jviewer/gui/FSMenuBar$ButtonListener.class
+SHA1-Digest: ZjlzTCaJ6T15uhm+Uqh8xosgN4c=
+
+Name: com/ami/kvm/jviewer/kvmpkts/CfgBandwidth.class
+SHA1-Digest: WOH6n1EgG3C9uHPs4jhLtlGyYT4=
+
+Name: com/ami/kvm/jviewer/res/unpin.jpg
+SHA1-Digest: lawSWLWhwsN4yfQUTYx3XM8hp7E=
+
+Name: com/ami/kvm/jviewer/res/close.jpg
+SHA1-Digest: 1OGC8uuhfil9ax6CELJxHHBe7WM=
+
+Name: com/ami/kvm/jviewer/res/min.jpg
+SHA1-Digest: 6o6irHA/FVonXQO33YN/rnmOIwk=
+
+Name: com/ami/iusb/CDROMRedir.class
+SHA1-Digest: lz6IA8VC0hd027H+NRB46vOR6zg=
+
+Name: com/ami/iusb/protocol/CDROMProtocol.class
+SHA1-Digest: 4Eo5yv+Sz5Hkv574Z3rhARTqYE4=
+
+Name: com/ami/kvm/jviewer/gui/JVMenu$GridMenu.class
+SHA1-Digest: 38NbFxfC3MKb9loyTwEBbacXeK4=
+
+Name: com/ami/kvm/jviewer/hid/HeaderReader.class
+SHA1-Digest: RmAZMsQvpT5iSSxlyQo99vmAy4M=
+
+Name: com/ami/kvm/jviewer/kvmpkts/PS2KeyboardRep.class
+SHA1-Digest: cbl+7DjdseIUN3jNKTt4TqFoeX4=
+
+Name: com/ami/kvm/jviewer/hid/KMEncode.class
+SHA1-Digest: eVq2nHNx9hGG97f2eDKhQkqt7/k=
+
+Name: com/ami/kvm/jviewer/video/ColorGains.class
+SHA1-Digest: zf/jW6EwflAp4oY06FuCsslZCFM=
+
+Name: com/ami/kvm/jviewer/video/UnsignedByte.class
+SHA1-Digest: 8y0gZagEgcd3R4rv1KqR/TdKSc4=
+
+Name: com/ami/iusb/protocol/IUSBHeader.class
+SHA1-Digest: ncby9RoGxdz2BxP7HGSIUKLwAlc=
+
+Name: com/ami/kvm/jviewer/video/Decoder$YUV444.class
+SHA1-Digest: 7CteU78GtkXV+jOn6nroZBV7jVE=
+
+Name: com/ami/kvm/jviewer/video/Decoder$COLOR_CACHE.class
+SHA1-Digest: UyUFlcCbSQrFx/Vu18LSDKaONDE=
+
+Name: com/ami/kvm/jviewer/hid/CtrlReader.class
+SHA1-Digest: rtUSD8gLvWZkntJZ+6rpbER/BI8=
+
+Name: com/ami/kvm/jviewer/kvmpkts/KeyProcessor.class
+SHA1-Digest: YwuM0zvOfrC4U5g/KEa5i+uJLXc=
+
+Name: com/ami/kvm/jviewer/video/Huffman_table.class
+SHA1-Digest: X3XsdBJ71GizdjkR2chRTYW9kSM=
+
+Name: com/ami/kvm/jviewer/gui/VideoEngineConfigsDlg.class
+SHA1-Digest: uxk56+I7PFTFr9xx1j6PFG6xsSY=
+
+Name: com/ami/kvm/jviewer/video/JVVideo.class
+SHA1-Digest: /s/ihEv43yAdimwCKPbYzg39B7U=
+
+Name: com/ami/kvm/jviewer/res/jviewer.jpg
+SHA1-Digest: c97xfkX4mTOSY4t4A6pbhjGZolA=
+
+Name: com/ami/kvm/jviewer/hid/FragNumReader.class
+SHA1-Digest: ahluHh4K99zJWJILUPinCmDGH+g=
+
+Name: com/ami/kvm/jviewer/gui/FSMenu.class
+SHA1-Digest: IOqucVsapbP9TLtWPkmRYhI2c6E=
+
+Name: com/ami/kvm/jviewer/video/Decoder$YUV.class
+SHA1-Digest: Qmj8VcT2/rTh39xPV7gd44LgBTw=
+
+Name: com/ami/kvm/jviewer/kvmpkts/USBKeyboardRep.class
+SHA1-Digest: MKfYbq/PkdN3/5YdAPItgpyfRYk=
+
+Name: com/ami/kvm/jviewer/kvmpkts/USBMessage.class
+SHA1-Digest: rWwl/H8inlY32dnptU1uB23aOnw=
+
+Name: com/ami/kvm/jviewer/gui/FSFrame.class
+SHA1-Digest: DE1pm8X8Jx6Iudr1YFWV27rrNXY=
+
+Name: com/ami/kvm/jviewer/Debug.class
+SHA1-Digest: 7ZxwyGTy0VqFxlpJ3JOczOzC1Ks=
+
+Name: com/ami/kvm/jviewer/video/Unsigned4ByteInt.class
+SHA1-Digest: 2wWYCTQ8gGyULDi7s+/IdEEfjnE=
+
+Name: com/ami/iusb/protocol/PacketMaster.class
+SHA1-Digest: oYOhp+w3tcZG7mmngb3P3kC5+xw=
+
+Name: com/ami/kvm/jviewer/gui/JViewerView.class
+SHA1-Digest: ZVOSdMDJcGOCQnvU/tWQg6tdFHM=
+
+Name: com/ami/iusb/protocol/FloppyProtocol.class
+SHA1-Digest: /bxRlgI66m6QAvGTn6+6otsuzkA=
+
+Name: com/ami/kvm/jviewer/gui/FSMenuBar$MouseEnterExit.class
+SHA1-Digest: lIHdqE/ualFtIuqEribP8b2824U=
+
+Name: com/ami/kvm/jviewer/gui/JViewerView$RCFocusListener.class
+SHA1-Digest: XdbObLjSOd+zrO6hvJuooo/+n78=
+
+Name: com/ami/kvm/jviewer/video/Decoder.class
+SHA1-Digest: vgnca1Yx46Ks6Ieqd35dy+xTtFY=
+
+Name: com/ami/iusb/FloppyRedir.class
+SHA1-Digest: PIye0M+zQwtKbjhiBpk9VxFENXI=
+
+Name: com/ami/kvm/jviewer/gui/JVFrame.class
+SHA1-Digest: LADVM+gnJpCR5YVJ8My3VGy4oo0=
+
+Name: com/ami/kvm/jviewer/gui/FSMenuBar.class
+SHA1-Digest: 2w3P0jCz2JSUq2IVbRw04YNjgTQ=
+
+Name: com/ami/kvm/jviewer/JViewer.class
+SHA1-Digest: RH1CUwFp88Cq3PVvLPhI6VDsH4g=
+
+Name: com/ami/kvm/jviewer/gui/AutoBWDlg.class
+SHA1-Digest: nC9bINF2QtaPXKJkHDGb/8tcBKA=
+
+Name: com/ami/kvm/jviewer/gui/JVMenu$1.class
+SHA1-Digest: LubHl0Y9yxn2SEkfQ9jFcMkBlRA=
+
+Name: com/ami/kvm/jviewer/kvmpkts/CfgQualityLvl.class
+SHA1-Digest: 0qBMMmVngxMPsdFdWQTz3g/RAuA=
+
+Name: com/ami/kvm/jviewer/hid/PS2Encode.class
+SHA1-Digest: xHdmiKAszdpNo84tTPgiWU9AYbE=
+
+Name: com/ami/kvm/jviewer/gui/JVMenu$JVMenuItemStatusListener.class
+SHA1-Digest: 04FiFnrz9Lv71jCmYNDhERFTTGo=
+
+Name: com/ami/kvm/jviewer/gui/FSMenuBar$SlideTask.class
+SHA1-Digest: iKjiaJB1UAjhyZoTW+R0mHfmUDk=
+
+Name: com/ami/kvm/jviewer/hid/KVMReader.class
+SHA1-Digest: XYVujcswjGXViqCHwGksDndcJY8=
+
+Name: com/ami/kvm/jviewer/hid/ASTCursorPatternPkt.class
+SHA1-Digest: VhjW+6FLz7ZffYdtjpjy3Cy8HB0=
+
+Name: com/ami/kvm/jviewer/video/JVVideo$FrameRateTask.class
+SHA1-Digest: yqf7FixCumx3UeLRcULpFqcBQhQ=
+
+Name: com/ami/iusb/JListDialog.class
+SHA1-Digest: bv/t+LS78TQKPMt7807lXTtfy0A=
+
+Name: com/ami/kvm/jviewer/kvmpkts/CaptureParams.class
+SHA1-Digest: xPls7NZerAyAWrHC1YH61OFSWc4=
+
+Name: com/ami/kvm/jviewer/gui/JViewerApp.class
+SHA1-Digest: Sb8309cTATTMC5qF83n+IR9vR7M=
+
+Name: com/ami/kvm/jviewer/communication/NWListener.class
+SHA1-Digest: UMT68nenUDdqh1RGpkC1Ca5KiJg=
+
+Name: com/ami/kvm/jviewer/kvmpkts/ASTCursorPktHdr.class
+SHA1-Digest: cYgUbtBSw9pQROHoCrqiqFqyeog=
+
+Name: com/ami/kvm/jviewer/video/ASP2000ImgHdr.class
+SHA1-Digest: Pzkl/rr0UR9sZQy/xt/ND6om7S4=
+
+Name: com/ami/kvm/jviewer/kvmpkts/CfgColorGains.class
+SHA1-Digest: zjJ4YwvFfZO7nXGUcMAxQJEaDrk=
+
+Name: com/ami/kvm/jviewer/gui/WindowFrame$1.class
+SHA1-Digest: 8ppbo7J3Xa5t26FWwyzAAN94/J0=
+
+Name: com/ami/kvm/jviewer/video/Unsigned2ByteShort.class
+SHA1-Digest: zD4v2cY7FbmqtP+BQeQA55csxiE=
+
+Name: com/ami/iusb/IUSBRedirSession$FloppyImageFilter.class
+SHA1-Digest: c4PZfqjqHj8x+lhSLjTLZ2XzbQo=
+
+Name: com/ami/kvm/jviewer/hid/KVMClient.class
+SHA1-Digest: IWmpaYbF8MDCj+meLbg/9menjOE=
+
+Name: com/ami/kvm/jviewer/hid/MouseReader.class
+SHA1-Digest: W0XQPWq1ZAiVAfAhGsXwLCTdnwM=
+
+Name: com/ami/iusb/EncryptionException.class
+SHA1-Digest: uII5AW6P0jtwFN3aqf3sKUhu650=
+
+Name: com/ami/kvm/jviewer/kvmpkts/USBMouseRep.class
+SHA1-Digest: D/jhMWIWgeVbTEPPN8orRp9znYE=
+
+Name: com/ami/kvm/jviewer/kvmpkts/VideoEngineConfigs.class
+SHA1-Digest: pLaZR9slmubTzRJnVK6kishMdHw=
+
+Name: com/ami/iusb/protocol/RedirPacket.class
+SHA1-Digest: TPkO1M6FHZH5+8oT2LMVxQ0VaQI=
+
+Name: com/ami/kvm/jviewer/gui/FSMenuBar$PopupMenuEventListener.class
+SHA1-Digest: SIeCDn+YCy6sDj2piLFHfp+Dmq8=
+
+Name: com/ami/kvm/jviewer/gui/JVMenu.class
+SHA1-Digest: yjsdYLtKAWY74bTFIxrWsmRmQ1c=
+
+Name: com/ami/kvm/jviewer/res/left.jpg
+SHA1-Digest: qV+VLKbe2ISnREtNLJ/RESFFHEQ=
+
+Name: com/ami/kvm/jviewer/video/Decoder$YUV422.class
+SHA1-Digest: JbQw1rvF4O2criJ8GFJFOqU9wcY=
+
+Name: com/ami/kvm/jviewer/res/menu.jpg
+SHA1-Digest: guYN2eS4BzhKitIYa+EEumRwqVU=
+
