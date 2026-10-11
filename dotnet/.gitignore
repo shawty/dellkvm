@@ -1,0 +1,26 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# Backup files
+*.bak
+*.bak.*
+*.old
+*.orig
+*~
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Test results
+TestResults/
+
+# IDE and local tooling
+.idea/
+.vscode/
+
+# OS-generated files
+Thumbs.db
+.DS_Store

@@ -71,23 +71,39 @@ public sealed class KvmTcpConnection : IAsyncDisposable
 
         var header = IVTPPacketHeader.Parse(headerBuffer);
 
-        if (header.PayloadLength > _maximumPayload)
+        var payload = await ReadPayloadAsync(
+            header.PayloadLength,
+            cancellationToken).ConfigureAwait(false);
+
+        return new IVTPPacket(header, payload);
+    }
+
+    /// <summary>
+    /// Reads exactly the requested number of payload bytes.
+    /// Intended for protocol sequences which contain additional
+    /// data blocks without an intervening IVTP header.
+    /// </summary>
+    public async Task<byte[]> ReadPayloadAsync(
+        int length,
+        CancellationToken cancellationToken = default)
+    {
+        if (length < 0 || length > _maximumPayload)
         {
             throw new InvalidDataException(
-                $"IVTP payload length {header.PayloadLength} " +
-                $"exceeds the configured maximum of {_maximumPayload}.");
+                $"Invalid payload length {length}; maximum is " +
+                $"{_maximumPayload}.");
         }
 
-        var payload = new byte[header.PayloadLength];
+        var payload = new byte[length];
 
-        if (payload.Length > 0)
+        if (length > 0)
         {
             await _stream.ReadExactlyAsync(
                 payload,
                 cancellationToken).ConfigureAwait(false);
         }
 
-        return new IVTPPacket(header, payload);
+        return payload;
     }
 
     public async Task WritePacketAsync(
