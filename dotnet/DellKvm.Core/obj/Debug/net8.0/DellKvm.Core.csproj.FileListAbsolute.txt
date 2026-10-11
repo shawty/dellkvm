@@ -1,0 +1,12 @@
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.Core\bin\Debug\net8.0\DellKvm.Core.deps.json
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.Core\bin\Debug\net8.0\DellKvm.Core.dll
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.Core\bin\Debug\net8.0\DellKvm.Core.pdb
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.Core\obj\Debug\net8.0\DellKvm.Core.GeneratedMSBuildEditorConfig.editorconfig
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.Core\obj\Debug\net8.0\DellKvm.Core.AssemblyInfoInputs.cache
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.Core\obj\Debug\net8.0\DellKvm.Core.AssemblyInfo.cs
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.Core\obj\Debug\net8.0\DellKvm.Core.csproj.CoreCompileInputs.cache
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.Core\obj\Debug\net8.0\DellKvm.Core.sourcelink.json
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.Core\obj\Debug\net8.0\DellKvm.Core.dll
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.Core\obj\Debug\net8.0\refint\DellKvm.Core.dll
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.Core\obj\Debug\net8.0\DellKvm.Core.pdb
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.Core\obj\Debug\net8.0\ref\DellKvm.Core.dll

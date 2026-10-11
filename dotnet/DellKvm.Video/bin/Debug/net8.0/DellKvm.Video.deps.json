@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DellKvm.Video/1.0.0": {
+        "dependencies": {
+          "DellKvm.Core": "1.0.0"
+        },
+        "runtime": {
+          "DellKvm.Video.dll": {}
+        }
+      },
+      "DellKvm.Core/1.0.0": {
+        "runtime": {
+          "DellKvm.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DellKvm.Video/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DellKvm.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

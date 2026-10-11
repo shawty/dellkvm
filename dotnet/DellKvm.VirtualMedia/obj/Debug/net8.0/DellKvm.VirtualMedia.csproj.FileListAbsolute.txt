@@ -1,0 +1,16 @@
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\bin\Debug\net8.0\DellKvm.VirtualMedia.deps.json
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\bin\Debug\net8.0\DellKvm.VirtualMedia.dll
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\bin\Debug\net8.0\DellKvm.VirtualMedia.pdb
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\bin\Debug\net8.0\DellKvm.Core.dll
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\bin\Debug\net8.0\DellKvm.Core.pdb
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\obj\Debug\net8.0\DellKvm.VirtualMedia.csproj.AssemblyReference.cache
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\obj\Debug\net8.0\DellKvm.VirtualMedia.GeneratedMSBuildEditorConfig.editorconfig
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\obj\Debug\net8.0\DellKvm.VirtualMedia.AssemblyInfoInputs.cache
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\obj\Debug\net8.0\DellKvm.VirtualMedia.AssemblyInfo.cs
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\obj\Debug\net8.0\DellKvm.VirtualMedia.csproj.CoreCompileInputs.cache
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\obj\Debug\net8.0\DellKvm.VirtualMedia.sourcelink.json
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\obj\Debug\net8.0\DellKvm..8324933C.Up2Date
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\obj\Debug\net8.0\DellKvm.VirtualMedia.dll
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\obj\Debug\net8.0\refint\DellKvm.VirtualMedia.dll
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\obj\Debug\net8.0\DellKvm.VirtualMedia.pdb
+M:\Shawtys Stuff\Desktop Stuff to Sort out from Aug 2022\Dell C6100 JavaKvm\dellkvm\dotnet\DellKvm.VirtualMedia\obj\Debug\net8.0\ref\DellKvm.VirtualMedia.dll

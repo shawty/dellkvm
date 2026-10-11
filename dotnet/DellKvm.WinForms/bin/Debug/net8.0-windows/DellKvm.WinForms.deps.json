@@ -1,0 +1,107 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DellKvm.WinForms/1.0.0": {
+        "dependencies": {
+          "DellKvm.Core": "1.0.0",
+          "DellKvm.Input": "1.0.0",
+          "DellKvm.Protocol": "1.0.0",
+          "DellKvm.Video": "1.0.0",
+          "DellKvm.VirtualMedia": "1.0.0"
+        },
+        "runtime": {
+          "DellKvm.WinForms.dll": {}
+        }
+      },
+      "DellKvm.Core/1.0.0": {
+        "runtime": {
+          "DellKvm.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DellKvm.Input/1.0.0": {
+        "dependencies": {
+          "DellKvm.Core": "1.0.0"
+        },
+        "runtime": {
+          "DellKvm.Input.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DellKvm.Protocol/1.0.0": {
+        "dependencies": {
+          "DellKvm.Core": "1.0.0"
+        },
+        "runtime": {
+          "DellKvm.Protocol.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DellKvm.Video/1.0.0": {
+        "dependencies": {
+          "DellKvm.Core": "1.0.0"
+        },
+        "runtime": {
+          "DellKvm.Video.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DellKvm.VirtualMedia/1.0.0": {
+        "dependencies": {
+          "DellKvm.Core": "1.0.0"
+        },
+        "runtime": {
+          "DellKvm.VirtualMedia.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DellKvm.WinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DellKvm.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DellKvm.Input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DellKvm.Protocol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DellKvm.Video/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DellKvm.VirtualMedia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

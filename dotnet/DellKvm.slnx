@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="DellKvm.Core/DellKvm.Core.csproj" />
+  <Project Path="DellKvm.Input/DellKvm.Input.csproj" />
+  <Project Path="DellKvm.Protocol/DellKvm.Protocol.csproj" />
+  <Project Path="DellKvm.Tests/DellKvm.Tests.csproj" />
+  <Project Path="DellKvm.Video/DellKvm.Video.csproj" />
+  <Project Path="DellKvm.VirtualMedia/DellKvm.VirtualMedia.csproj" />
+  <Project Path="DellKvm.WinForms/DellKvm.WinForms.csproj" />
+</Solution>

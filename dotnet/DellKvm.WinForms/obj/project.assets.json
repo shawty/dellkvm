@@ -1,0 +1,198 @@
+{
+  "version": 4,
+  "targets": {
+    "net8.0-windows": {
+      "DellKvm.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DellKvm.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DellKvm.Core.dll": {}
+        }
+      },
+      "DellKvm.Input/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DellKvm.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DellKvm.Input.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DellKvm.Input.dll": {}
+        }
+      },
+      "DellKvm.Protocol/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DellKvm.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DellKvm.Protocol.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DellKvm.Protocol.dll": {}
+        }
+      },
+      "DellKvm.Video/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DellKvm.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DellKvm.Video.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DellKvm.Video.dll": {}
+        }
+      },
+      "DellKvm.VirtualMedia/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DellKvm.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DellKvm.VirtualMedia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DellKvm.VirtualMedia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DellKvm.Core/1.0.0": {
+      "type": "project",
+      "path": "../DellKvm.Core/DellKvm.Core.csproj",
+      "msbuildProject": "../DellKvm.Core/DellKvm.Core.csproj"
+    },
+    "DellKvm.Input/1.0.0": {
+      "type": "project",
+      "path": "../DellKvm.Input/DellKvm.Input.csproj",
+      "msbuildProject": "../DellKvm.Input/DellKvm.Input.csproj"
+    },
+    "DellKvm.Protocol/1.0.0": {
+      "type": "project",
+      "path": "../DellKvm.Protocol/DellKvm.Protocol.csproj",
+      "msbuildProject": "../DellKvm.Protocol/DellKvm.Protocol.csproj"
+    },
+    "DellKvm.Video/1.0.0": {
+      "type": "project",
+      "path": "../DellKvm.Video/DellKvm.Video.csproj",
+      "msbuildProject": "../DellKvm.Video/DellKvm.Video.csproj"
+    },
+    "DellKvm.VirtualMedia/1.0.0": {
+      "type": "project",
+      "path": "../DellKvm.VirtualMedia/DellKvm.VirtualMedia.csproj",
+      "msbuildProject": "../DellKvm.VirtualMedia/DellKvm.VirtualMedia.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows": [
+      "DellKvm.Core >= 1.0.0",
+      "DellKvm.Input >= 1.0.0",
+      "DellKvm.Protocol >= 1.0.0",
+      "DellKvm.Video >= 1.0.0",
+      "DellKvm.VirtualMedia >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\shawty\\.nuget\\packages\\": {},
+    "C:\\Users\\shawty\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.WinForms\\DellKvm.WinForms.csproj",
+      "projectName": "DellKvm.WinForms",
+      "projectPath": "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.WinForms\\DellKvm.WinForms.csproj",
+      "packagesPath": "C:\\Users\\shawty\\.nuget\\packages\\",
+      "outputPath": "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.WinForms\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Users\\shawty\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\shawty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shawty\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows": {
+          "framework": "net8.0-windows7.0",
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.Core\\DellKvm.Core.csproj": {
+              "projectPath": "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.Core\\DellKvm.Core.csproj"
+            },
+            "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.Input\\DellKvm.Input.csproj": {
+              "projectPath": "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.Input\\DellKvm.Input.csproj"
+            },
+            "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.Protocol\\DellKvm.Protocol.csproj": {
+              "projectPath": "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.Protocol\\DellKvm.Protocol.csproj"
+            },
+            "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.Video\\DellKvm.Video.csproj": {
+              "projectPath": "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.Video\\DellKvm.Video.csproj"
+            },
+            "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.VirtualMedia\\DellKvm.VirtualMedia.csproj": {
+              "projectPath": "M:\\Shawtys Stuff\\Desktop Stuff to Sort out from Aug 2022\\Dell C6100 JavaKvm\\dellkvm\\dotnet\\DellKvm.VirtualMedia\\DellKvm.VirtualMedia.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net8.0-windows": {
+        "framework": "net8.0-windows7.0",
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

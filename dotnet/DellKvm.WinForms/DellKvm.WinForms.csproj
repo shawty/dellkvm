@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\DellKvm.Core\DellKvm.Core.csproj" />
+    <ProjectReference Include="..\DellKvm.Protocol\DellKvm.Protocol.csproj" />
+    <ProjectReference Include="..\DellKvm.Video\DellKvm.Video.csproj" />
+    <ProjectReference Include="..\DellKvm.Input\DellKvm.Input.csproj" />
+    <ProjectReference Include="..\DellKvm.VirtualMedia\DellKvm.VirtualMedia.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>
